@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3f3340ae.css",
+    "main.js": "/static/js/main.8066ff21.js",
+    "static/media/uniqlo-gb031fe49b_1920.jpg": "/static/media/uniqlo-gb031fe49b_1920.6b8b073e72046262be60.jpg",
+    "static/media/clothing-header-image.png": "/static/media/clothing-header-image.102adf654b8b04df3eb8.png",
+    "static/media/istockphoto-901863672-612x612 (1).png": "/static/media/istockphoto-901863672-612x612 (1).2f1dab4bfac80480875e.png",
+    "static/media/istockphoto-111885949-612x612.jpg": "/static/media/istockphoto-111885949-612x612.728f8a6fcbda4e0709af.jpg",
+    "static/media/istockphoto-688948854-612x612.jpg": "/static/media/istockphoto-688948854-612x612.8af4db44cbcdfdee7ed1.jpg",
+    "static/media/KyrionPro-Regular.ttf": "/static/media/KyrionPro-Regular.1191317ab5839225c3e5.ttf",
+    "static/media/Untitled-1.svg": "/static/media/Untitled-1.ad2d7d6a85b882c2ba91.svg",
+    "index.html": "/index.html",
+    "main.3f3340ae.css.map": "/static/css/main.3f3340ae.css.map",
+    "main.8066ff21.js.map": "/static/js/main.8066ff21.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3f3340ae.css",
+    "static/js/main.8066ff21.js"
+  ]
+}
